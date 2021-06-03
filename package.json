@@ -14,10 +14,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/myluna08/homebridge-rituals.git"
+        "url": "git://github.com/frescogamer/homebridge-rituals.git"
     },
     "bugs": {
-        "url": "http://github.com/myluna08/homebridge-rituals/issues"
+        "url": "https://github.com/frescogamer/homebridge-rituals/issues"
     },
     "author": "Victor Montes",
     "engines": {
@@ -29,7 +29,7 @@
         "request-json": "^0.6.4",
         "node-storage": "^0.0.9"
     },
-    "homepage": "https://github.com/myluna08/homebridge-rituals#readme",
+    "homepage": "https://github.com/frescogamer/homebridge-rituals#readme",
     "devDependencies": {
         "eslint": "^7.11.0",
         "prettier-eslint": "^11.0.0"
