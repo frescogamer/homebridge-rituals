@@ -1,6 +1,18 @@
 # Homebridge-Rituals
 
-v1 is functional release, ENJOY!!
+# PATCHED UNOFFICIAL VERSION!!
+
+## PATCH NOTES
+
+- added a config for setting geni version (1 has battery, 2 without)
+- removed the automatic version setter
+
+### Why?
+
+i like to tinker with stuff, this plugin is broken at some points, im trying to fix those for myself mainly.
+but maybe its usefull to other people as well! 
+
+-------
 
 <img src="https://img.shields.io/badge/stage-stable-green"> <img src="https://img.shields.io/badge/completion-90%25-yellow"> <img src="https://img.shields.io/badge/license-MIT-green"> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=4YXRZVGSVNAEE&item_name=Just+for+a+coffe&currency_code=EUR&source=url"><img src="https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=using%20paypal&color=green"></a> <a align="right" href="https://github.com/myluna08/homebridge-rituals/blob/master/README.md">English</a>|<a align="right" href="https://github.com/myluna08/homebridge-rituals/blob/master/README_ES.md">Español</a>
 
